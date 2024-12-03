@@ -1,8 +1,8 @@
 # Getting Started with React UI Components using Next.js
 
-This application demonstrates the usage of the Syncfusion React Document Editor component in Next.js.
+This application demonstrates the usage of the Syncfusion&reg; React Document Editor component in Next.js.
 
-To know how to configure the Syncfusion React Document Editor component in Next.js, refer to the [documentation](https://ej2.syncfusion.com/react/documentation/document-editor/nextjs-getting-started).
+To know how to configure the Syncfusion&reg; React Document Editor component in Next.js, refer to the [documentation](https://ej2.syncfusion.com/react/documentation/document-editor/nextjs-getting-started).
 
 ## Clone the repository
 
